@@ -29,5 +29,9 @@ API de exemplo para você se inspirar: https://swapi.dev/
 ## Bônus ##
 
 Cadastrar múltiplos telefones, dar a opção cadastrar N telefones ao registro de um estudante.
-Usar frameworks consolidados como Spring (spring jpa, spring boot, spring web), Laravel, Slim.
+Usar frameworks consolidados como Spring (spring jpa, spring boot, spring web).
+
+## Super Bônus ##
+
+Fazer deploy da aplicação em um serviço a sua escolha como AWS, Heroku, Google Cloud, Azure, etc (muitos desses serviços possuem disponilizam um acesso gratuito).
 
