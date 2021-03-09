@@ -5,7 +5,7 @@
 Desenvolva uma API Rest para um cadastro de estudantes com intuito de consultar, criar novos registros, realizar atualizações e exclusões nestes (CRUD) utilizando um banco de dados.
 Em um cenário de trabalho esta API seria consumida por um desenvolvedor front-end trabalhando em par contigo.
 
-Crie um repositório **público** no github em uma conta pessoal sua e nos envie o link como resposta ao seu teste.
+Crie um repositório **público** no github em uma conta pessoal sua e nos envie o link como resposta no email de seu entrevistador ou caso tenha problemas para localiza-lo envie no career@forleven.com 
 
 ## Informações técnicas
 
