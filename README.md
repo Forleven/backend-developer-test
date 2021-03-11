@@ -35,7 +35,7 @@ API de exemplo para você se inspirar: https://swapi.dev/
 
 ## Super Bônus
 
-- Fazer deploy da aplicação em qualquer serviço a sua escolha como AWS, Heroku, Google Cloud, Azure, etc (muitos desses serviços possuem disponilizam um acesso gratuito).
+- Fazer deploy da aplicação em qualquer serviço a sua escolha como AWS, Heroku, Google Cloud, Azure, etc (muitos desses serviços disponilizam um acesso gratuito).
   - Dica: Você pode fazer deploy da app usando H2 como banco para não precisar realizar deploy de um banco
 
 ## Quais são os itens que avaliamos ?
